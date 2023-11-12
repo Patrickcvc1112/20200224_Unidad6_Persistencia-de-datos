@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dessert Release</string>
+    <string name="top_bar_name">Android Dessert Release</string>
+    <string name="grid_layout_toggle">Disposición de la cuadrícula</string>
+    <string name="linear_layout_toggle">Disposición lineal</string>
+</resources>
